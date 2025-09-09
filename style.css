@@ -54,7 +54,7 @@ body {
     display: flex;
     width: "1920px";
     height: "1080px";
-    background: url(../Mapel_RPL/img/padthai-shrimp-black-bowl-with-eggs-spring-onion-seasoning-wooden-table.jpg);
+    background: url(padthai-shrimp-black-bowl-with-eggs-spring-onion-seasoning-wooden-table.jpg);
     margin-bottom: 25px;
     position: relative;
     background-repeat: no-repeat;
@@ -149,6 +149,7 @@ footer a:hover {
   color: #ffd700;
   text-decoration: underline;
 }
+
 
 
 
